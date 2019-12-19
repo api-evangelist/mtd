@@ -1,0 +1,82 @@
+{
+    "name": "MTD",
+    "description": "The Champaign-Urbana Mass Transit District provides public transportation for areas including Champaign, Urbana, and Savoy.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/859-mtd.jpg",
+    "tags": [
+        "api provider",
+        "bus",
+        "have api",
+        "illinois"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mtd\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MTD",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/859-mtd.jpg",
+            "humanURL": "http:\/\/developer.cumtd.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mtd-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.cumtd.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "advertising@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "mtdweb@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "FOIO@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "mtdpress@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "managingdirector@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "ChiefOperatingOfficer@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "ChiefAdministrativeOfficer@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "operations@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "maintenance@cumtd.com"
+        },
+        {
+            "type": "Email",
+            "url": "safety@cumtd.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CUMTD"
+        }
+    ]
+}
