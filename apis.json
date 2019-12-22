@@ -8,8 +8,8 @@
         "have api",
         "illinois"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mtd\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -20,16 +20,15 @@
             "humanURL": "http:\/\/developer.cumtd.com\/",
             "baseURL": "",
             "tags": [],
-            "properties": [
-                {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mtd-openapi.json"
-                }
-            ]
+            "properties": []
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Website",
             "url": "http:\/\/developer.cumtd.com\/"
